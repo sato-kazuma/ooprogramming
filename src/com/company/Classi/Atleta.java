@@ -31,4 +31,5 @@ public class Atleta extends Persona{
     public String toString() {
         return super.toString() + " Specialità= " + this.specialità;
     }
+    
 }
